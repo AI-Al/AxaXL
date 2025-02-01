@@ -10,3 +10,7 @@ alembic/versions/*.py
 .pytest_cache/
 *.log
 .ipynb_checkpoints/
+bin/
+include/
+lib/
+s
