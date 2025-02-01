@@ -1,0 +1,12 @@
+AxaXLEnv/
+__pycache__/
+*.py[cod]
+*.class
+.env
+*.db
+*.sqlite3
+alembic/versions/*.py
+.vscode/
+.pytest_cache/
+*.log
+.ipynb_checkpoints/
